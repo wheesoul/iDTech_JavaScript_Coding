@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+This is a basic script in which you are automatically assigned one number to be your fortune. Depending on it's value, different fortunes will be displayed ranging from good to bad.
